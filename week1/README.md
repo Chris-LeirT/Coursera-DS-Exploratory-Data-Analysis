@@ -1,7 +1,11 @@
 # Coursera Data science week 1 assignment  
-This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the "Individual household electric power consumption Data Set" which have been made available on the course web site:  
-- Dataset: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip  
-- Description: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
+
+This assignment uses data from
+the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine Learning Repository</a>, a popular repository for machine learning datasets. In particular, we will be using the "Individual household electric power consumption Data Set" which I have made available on the course web site:
+
+
+* <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
+* <b>Description</b>: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
 
 The following descriptions of the 9 variables in the dataset are taken from the UCI web site:  
 
@@ -15,7 +19,7 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 8. Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.  
 9. Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.  
 
-The four plots that need to be constructed are shown below.
+The four plots that need to be constructed are shown below:  
 Plot 1:  
 ![unnamed-chunk-2](https://user-images.githubusercontent.com/78292939/123511010-049ac100-d6a9-11eb-8318-546bb06c1c91.png)
 Plot 2:  
