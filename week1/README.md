@@ -21,11 +21,11 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 
 The four plots that need to be constructed are shown below:  
 Plot 1:  
-![unnamed-chunk-2](https://user-images.githubusercontent.com/78292939/123511010-049ac100-d6a9-11eb-8318-546bb06c1c91.png)
+![unnamed-chunk-2](https://user-images.githubusercontent.com/78292939/123511010-049ac100-d6a9-11eb-8318-546bb06c1c91.png)  
 Plot 2:  
-![unnamed-chunk-3](https://user-images.githubusercontent.com/78292939/123511011-06648480-d6a9-11eb-8cf3-53757024d356.png)
+![unnamed-chunk-3](https://user-images.githubusercontent.com/78292939/123511011-06648480-d6a9-11eb-8cf3-53757024d356.png)  
 Plot 3:  
-![unnamed-chunk-4](https://user-images.githubusercontent.com/78292939/123511012-06648480-d6a9-11eb-915f-de2970124d6b.png)
+![unnamed-chunk-4](https://user-images.githubusercontent.com/78292939/123511012-06648480-d6a9-11eb-915f-de2970124d6b.png)  
 Plot 4:  
-![unnamed-chunk-5](https://user-images.githubusercontent.com/78292939/123511013-06fd1b00-d6a9-11eb-8628-6359e0f8bd37.png)
+![unnamed-chunk-5](https://user-images.githubusercontent.com/78292939/123511013-06fd1b00-d6a9-11eb-8628-6359e0f8bd37.png)  
 
